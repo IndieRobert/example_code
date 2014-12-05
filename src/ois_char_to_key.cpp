@@ -1,0 +1,78 @@
+case 'a':
+case 'A':
+  return OIS::KC_A;
+case 'b':
+case 'B':
+  return OIS::KC_B;
+case 'c':
+case 'C':
+  return OIS::KC_C;
+case 'd':
+case 'D':
+  return OIS::KC_D;
+case 'e':
+case 'E':
+  return OIS::KC_E;
+case 'f':
+case 'F':
+  return OIS::KC_F;
+case 'g':
+case 'G':
+  return OIS::KC_G;
+case 'h':
+case 'H':
+  return OIS::KC_H;
+case 'i':
+case 'I':
+  return OIS::KC_I;
+case 'j':
+case 'J':
+  return OIS::KC_J;
+case 'k':
+case 'K':
+  return OIS::KC_K;
+case 'l':
+case 'L':
+  return OIS::KC_L;
+case 'm':
+case 'M':
+  return OIS::KC_M;
+case 'n':
+case 'N':
+  return OIS::KC_N;
+case 'o':
+case 'O':
+  return OIS::KC_O;
+case 'p':
+case 'P':
+  return OIS::KC_P;
+case 'q':
+case 'Q':
+  return OIS::KC_Q;
+case 'r':
+case 'R':
+  return OIS::KC_R;
+case 's':
+case 'S':
+  return OIS::KC_S;
+case 't':
+case 'T':
+  return OIS::KC_T;
+case 'u':
+case 'U':
+  return OIS::KC_U;
+case 'v':
+case 'V':
+  return OIS::KC_V;
+case 'w':
+case 'W':
+  return OIS::KC_W;
+case 'x':
+case 'X':
+  return OIS::KC_X;
+case 'y':
+case 'Y':
+  return OIS::KC_Y;
+case 'z':
+case 'Z':
+  return OIS::KC_Z;
