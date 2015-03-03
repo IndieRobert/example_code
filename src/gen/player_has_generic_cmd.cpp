@@ -1,1 +1,0 @@
-GENERIC_SKILL(footmen, 50)
